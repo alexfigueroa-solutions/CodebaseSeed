@@ -38,18 +38,6 @@ python-spin-up library MyLibrary
 
 ---
 
-## 📖 Detailed Usage
-
-### CLI Projects
-
-...[Provide details and perhaps a screenshot of the structure it creates]
-
-### Library Projects
-
-...[Provide details and perhaps a screenshot of the structure it creates]
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/cybrvybe/python-spin-up/issues) page. Pull requests are warmly welcome. For major changes, please open an issue first to discuss what you would like to change.

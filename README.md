@@ -1,4 +1,4 @@
-# 🛠️ Python-spin-up
+# 🛠️ CodebaseSeed
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Python 3.8](https://img.shields.io/badge/python-3.8-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-blueviolet)
 
@@ -17,7 +17,7 @@ Streamline your Python project creation process with a mere command! From initia
 ## 🛠️ Installation
 
 ```bash
-pip install python-spin-up
+pip install codebaseseed
 ```
 
 ---
@@ -27,20 +27,20 @@ pip install python-spin-up
 Navigate to your desired directory and simply run:
 
 ```bash
-python-spin-up cli MyAmazingTool
+seed cli MyAmazingTool
 ```
 
 Or for a library project:
 
 ```bash
-python-spin-up library MyLibrary
+seed library MyLibrary
 ```
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/cybrvybe/python-spin-up/issues) page. Pull requests are warmly welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/cybrvybe/CodebaseSeed/issues) page. Pull requests are warmly welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
